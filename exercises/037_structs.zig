@@ -44,6 +44,7 @@ pub fn main() void {
         .role = Role.wizard,
         .gold = 20,
         .experience = 10,
+        .health = 100,
     };
 
     // Glorp gains some gold.
